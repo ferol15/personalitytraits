@@ -4,6 +4,18 @@ title: "About the Project"
 
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166024076-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-166024076-1');
+</script>
+
+
+
 <i>Big Five Personality Traits</i> theory is one of the most recent and widely accepted approaches in political psychology scholarship to enclose the links between personality traits and political beliefs. <i>Big Five Personality Traits</i> research employs lexical analysis by asking individuals about a certain set of personality adjectives’ fitness to their personality attributes, and later, applies exploratory and confirmatory factor analyses to those questions to identify broader personality traits domains (Gosling, Rentfrow, & Swann Jr, 2003; Gerber, Huber, Doherty and Dowling, 2011). 
 
 Accordingly, <i>Big Five Personality Traits</i> theory puts forward the following five personality traits: (i) <i>Extraversion</i>, (ii) <i>Agreeableness</i>, (iii) <i>Conscientiousness</i>, (iv) <i>Neuroticism</i> (or <i>Emotional Instability</i>) and (v) <i>Openness to New experiences</i>. In our current study, we want to ascertain the extent of Openmindedness-related differences in several political attitudes and behaviors (for a brief illustration of each trait’s dimensions, please see Figure 1). 
