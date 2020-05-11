@@ -1,0 +1,11 @@
+name: "Personality Traits"
+output_dir: "."
+navbar:
+  title: "Personality Traits"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About the Project"
+      href: about.html
+    - text: "Project Results"
+      href: project.html
