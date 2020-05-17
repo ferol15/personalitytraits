@@ -13,14 +13,13 @@ title: "Open-mindedness in the Political Arena"
 
 <br>
 
-Welcome to our survey research study entitled Open-mindedness in the Political Arena!    
+Welcome to the GitHub page of our survey research study entitled Open-mindedness in the Political Arena!    
    
-The purpose of this study is an examination of the associations between the personality trait Openness to New Experiences and political ideologies of conservatism and liberalism. Participating in this study will involve your survey responses on demographics, the personality trait Open-mindedness, and several political attitudes and behaviors. Your participation will last approximately 15 minutes. There are no foreseeable risks involved in participating in this study other than those encountered in day-to-day life. Your responses may help us learn more about the links between the personality trait Openness to New Experiences, and conservative/liberal self-identification and policy positions. 
+The purpose of this study is an examination of the associations between the personality trait Openness to New Experiences and conservative/liberal self-identification and policy positions.
 
-Thank you for your help. Sincerely,
+For further information about the Openness to New Experiences, please see <a href="https://ferol15.github.io/personalitytraits/about.html">About the Project</a> section. 
 
-<br>
-<b> To take part in our survey, please click here.</b>
+Thank you for your help, in advance. Sincerely,
 
 ---
 <b><i>Note:</i></b> If you have any questions about this study or your part in it, or if you have concerns or complaints about the research, please contact the graduate visiting researcher Fatih Erol at e-mail address ferol@illinois.edu 
